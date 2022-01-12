@@ -1,3 +1,3 @@
 # iocage-plugin-sickgear
 
-Headphones is an automated music downloader for NZB and Torrent, written in Python. It supports SABnzbd, NZBget, Transmission, µTorrent, Deluge and Blackhole.
+SickGear provides management of TV shows and/or Anime, it detects new episodes, links downloader apps, and more.
