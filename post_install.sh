@@ -1,7 +1,6 @@
 #!/bin/sh -x
 IP_ADDRESS=$(ifconfig | grep -E 'inet.[0-9]' | grep -v '127.0.0.1' | awk '{ print $2}')
 
-
 cd /usr/local/bin
 ln -s python3.8 python
 ln -s python3.8 python2
